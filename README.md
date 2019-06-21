@@ -15,3 +15,10 @@ And
 
 [here](Features/Feature1.md) for another Md in subfolder!!!
 
+Here are some features of Markdown files described below:
+
+* Feature Set 1
+* Feature Set 2
+* Feature Set 3
+* Feature Set 4
+* Feature Set 5
