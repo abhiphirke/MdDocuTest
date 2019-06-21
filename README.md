@@ -7,5 +7,5 @@ I have created this sample project to
 
 Following are some subpages on this repository:
 
-And you can click [here](http://github.com) for another Md!!!
+And you can click [here](StackEdit.md) for another Md!!!
 
