@@ -1,6 +1,6 @@
 It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
 
-#Headers
+# Headers
 # This is an <h1> tag
 ## This is an <h2> tag
 ###### This is an <h6> tag
@@ -16,7 +16,7 @@ __This will also be bold__
 _You **can** combine them_
 
 
-#Lists
+# Lists
 ## Unordered
 * Item 1
 * Item 2
@@ -32,23 +32,23 @@ _You **can** combine them_
    1. Item 3b
 
 
-#Images
+# Images
 ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url)
 
 
-#Links
+# Links
 http://github.com - automatic!
 [GitHub](http://github.com)
 
 
-#Blockquotes
+# Blockquotes
 As Kanye West said:
 
 > We're living the future so
 > the present is our past.
 
 
-#Inline code
+# Inline code
 I think you should use an
 `<addr>` element here instead.
