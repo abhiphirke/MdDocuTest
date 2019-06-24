@@ -18,7 +18,7 @@ And
 Here are some features of Markdown files described below:
 
 * [Feature Set 1](Features/Feature1.md)
-* [Feature Set 2](Features/Feature1.md)
-* [Feature Set 3](Features/Feature1.md)
-* [Feature Set 4](Features/Feature1.md)
-* [Feature Set 5](Features/Feature1.md)
+* [Feature Set 2](Features/Feature2.md)
+* [Feature Set 3](Features/Feature3.md)
+* [Feature Set 4](Features/Feature4.md)
+* [Feature Set 5](Features/Feature5.md)
